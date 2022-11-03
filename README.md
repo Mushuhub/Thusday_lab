@@ -1,1 +1,1 @@
-# Thusday_lab
+# Thursday_Lab

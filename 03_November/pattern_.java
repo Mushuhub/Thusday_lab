@@ -10,13 +10,13 @@ public class Pattern_java {
 		int i,j;
 		for(i=1;i<=5;i++) // (This is for row )
 		{
-			for(j=4;j>=i;j--)//(This is for coloum)
+			for(j=4;j>=i;j--)
 			{
-				System.out.print(" ");	
+				System.out.print(" ");	//(This for space)
 			}
 			for(j=1;j<2*i;j++)
 			{
-				System.out.print("*");
+				System.out.print("*"); //(This is star)
 				
 			}
 			System.out.println( );

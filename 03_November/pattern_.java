@@ -19,7 +19,7 @@ public class Pattern_java {
 				System.out.print("*"); //(This is star)
 				
 			}
-			System.out.println( );
+			System.out.println( ); // ( This is for new line)
 		}
 	}
 	
